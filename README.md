@@ -1,5 +1,5 @@
 # wowonline
-这是一款用于魔兽世界怀旧服的小工具。可以监测排队情况，断线自动重连，排队完成后自动进入游戏，并实现挂机。
+这是一款用于魔兽世界的小工具。可以监测排队情况，断线自动重连，排队完成后自动进入游戏，并实现挂机。
 ## 使用说明
 * 工具只能在x64位系统上运行！
 * 工具包括：wowonline.exe和wow_login_in.png、wow_disconnect.png、wow_reconnect.png、wow_disconnect_too.png共计5个文件，放在同个目录下执行；
