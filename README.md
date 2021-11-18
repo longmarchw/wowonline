@@ -2,7 +2,7 @@
 这是一款用于魔兽世界怀旧服的小工具。可以监测排队情况，断线自动重连，排队完成后自动进入游戏，并实现挂机。
 ## 使用说明
 * 工具只能在x64位系统上运行！
-* 工具包括：wowhold.exe和wow_login_in.png、wow_disconnect.png、wow_reconnect.png、wow_disconnect_too.png共计5个文件，放在同个目录下执行；
+* 工具包括：wowonline.exe和wow_login_in.png、wow_disconnect.png、wow_reconnect.png、wow_disconnect_too.png共计5个文件，放在同个目录下执行；
 * 第一次使用，强烈建议更新四张图片。方法如下：
     1. wow_login_in.png：窗口最大化运行游戏。登录到人物选择界面，手动截取“进入魔兽世界”按钮图片，替换现有文件即可，名字不要改变；
     2. wow_disconnect.png：窗口化运行游戏，在游戏内界面下，断开网络，等待数秒后，参考截取并替代即可，名字不要改变；
